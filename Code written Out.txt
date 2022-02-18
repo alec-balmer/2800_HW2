@@ -1,0 +1,9 @@
+declare a variable for finding the minimum maximum and average of th file
+
+tell the code to open up the weather data file
+
+tell the weather variable to search for the tempature integers
+
+make variables for the min, max, and average of the integers and then attach the variables to their respective functions
+
+once the integers are found make the out put a string that prints out a sentace and add the varaible outcomes to the string
